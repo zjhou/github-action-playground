@@ -1,0 +1,12 @@
+{
+  "name": "github-action-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zjhou/github-action-playground.git",
+  "author": "ZjHOU <z@zjh.im>",
+  "license": "MIT",
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^3.0.0"
+  }
+}
